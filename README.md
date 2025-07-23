@@ -57,7 +57,9 @@ HealthKart_dashboard/
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
-Run the Streamlit dashboard - streamlit run dashboard.py
+
+#2. Run the Streamlit dashboard 
+streamlit run dashboard.py
 
 ## ⚙️ Key Features
 
