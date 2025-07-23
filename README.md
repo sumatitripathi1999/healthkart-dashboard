@@ -24,17 +24,19 @@ Build an interactive dashboard that allows marketers to:
 ---
 
 ## 📁 Project Structure
-HealthKart_dashboard/
-├── data/
-│ ├── influencers.csv
-│ ├── posts.csv
-│ ├── tracking_data.csv
-│ └── payouts.csv
-├── analysis.ipynb # EDA and insight generation
-├── dashboard.py # Streamlit dashboard code
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── insights.md # Key findings from data
+- HealthKart_dashboard/
+  ├── data/
+  │   ├── influencers.csv
+  │   ├── posts.csv
+  │   ├── tracking_data.csv
+  │   └── payouts.csv
+  ├── analysis.ipynb           # EDA and insight generation
+  ├── dashboard.py             # Streamlit dashboard code
+  ├── requirements.txt         # Python dependencies
+  ├── README.md                # Project documentation
+  └── insights.md              # Key findings from data
+
+
 
 
 ---
